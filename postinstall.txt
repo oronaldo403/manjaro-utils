@@ -1,3 +1,5 @@
+## Comandos de pós instalação do meu ambiente de desenvolvimento Manjaro
+
 sudo pacman -Syyu
 sudo pacman-mirrors --fasttrack
 sudo systemctl enable fstrim.timer
