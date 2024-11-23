@@ -1,4 +1,4 @@
-## Comandos de pós instalação do meu ambiente de desenvolvimento Manjaro
+## Post-installation script for Manjaro GNOME, which uses Zsh by default.
 
 sudo pacman -Syyu
 sudo systemctl enable fstrim.timer
